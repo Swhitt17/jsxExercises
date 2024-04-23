@@ -1,0 +1,17 @@
+.Tweet{
+    border: 2px solid gray;
+    width: 400px;
+}
+
+.Tweet-name{
+    font-weight: 500;
+}
+
+.Tweet-date{
+    font-size: 0.9rem;
+}
+
+.Tweet-msg{
+    font-size: 1.5rem;
+    color:blueviolet;
+}
